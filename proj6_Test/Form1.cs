@@ -1,4 +1,6 @@
-﻿using NAudio.Wave;
+//pentru a testa aplicatia este recomandat sa utilizati o aplicatie de tip voice recorder/zoom etc si sa produceti zgomot.
+//microfonul este detectat daca au loc schimbari dpdv fonic cat timp este voice recorder-ul pornit
+using NAudio.Wave;
 using System;
 using System.Diagnostics;
 using System.Windows.Forms;
